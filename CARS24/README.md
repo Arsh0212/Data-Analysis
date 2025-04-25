@@ -1,3 +1,5 @@
+##Please view in code Mode
+
 Data Analysis on CARS24 data set (2024)
 
 #The data was picked from kaggle and downloaded on the local system
@@ -27,8 +29,8 @@ Data Analysis on CARS24 data set (2024)
       # Buyers looking for cheap cars will have to buy diesel as there were less CNG cars before and old CNG car engine gets damaged.
 
 --Factors affecting the price of the cars are
-  Age
-  Km_Driven
-  Engine_capacity( also can mean car size)
-  Fuel_type 
-  Transmission Type
+  Age(cars with age 7 were the most sold 2017 models)
+  Km_Driven(30-40km driven cars also have high frequency)
+  Engine_capacity( also can mean car size) (1.2L is most common)
+  Fuel_type (Petrol,Diesel,CNG and Hybrid)
+  Transmission Type (Manual is dominanat)

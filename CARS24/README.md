@@ -1,10 +1,10 @@
 ##Please view in code Mode
 
-Data Analysis on CARS24 data set (2024)
+<h1>Data Analysis on CARS24 data set (2024)</h1>
 
 #The data was picked from kaggle and downloaded on the local system
 
-#It was then loaded in postgresql database for basic transformations and queries
+#It was then loaded in postgresql database for basic transformations and queries<br>
   A few columns were added , the data was cleaned and the columns were dropped.
   
 #Then for advanced Data Analysis the database was connected to python (jupyter notebook)

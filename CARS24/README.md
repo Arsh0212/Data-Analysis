@@ -1,11 +1,13 @@
-##Please view in code Mode
+# Data Analysis on CARS24 data set (2024) #- kaggle
 
-<h1>Data Analysis on CARS24 data set (2024)</h1>
+> The dataset consists the data of ___Maruti Suzuki___ pre-owned cars that were sold in 2024  
+**Our goal was to analyse the data from the companies and the customers point of view**
 
-#The data was picked from kaggle and downloaded on the local system
+> First the data needed to be cleaned and properly transformed in order to perofrm any analysis
+___SQL___
+We used SQL to load the data properly and clean the data
 
-#It was then loaded in postgresql database for basic transformations and queries<br>
-  A few columns were added , the data was cleaned and the columns were dropped.
+
   
 #Then for advanced Data Analysis the database was connected to python (jupyter notebook)
   The data was separated into Dimensions(catgorical data) and Measures(numerical data)
